@@ -5,8 +5,12 @@ const styles= StyleSheet.create({
         padding: 100,
     },
     texto:{
-        color:'#5f03ab',
-        fontSize:20,
-    }
+        color:'#5d137d',
+        fontSize:30,
+    },
+    texto2:{
+        color:'#9904d9',
+        fontSize:60,
+    },
 });
 export default styles;
