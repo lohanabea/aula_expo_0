@@ -19,6 +19,11 @@ const styles= StyleSheet.create({
         margin:10,
         color:'purple',
     },
+    viewmensagem:{
+        borderWidth:4,
+        borderColor:'#733ba1',
+        borderRadius:20,
+    },
 });
 
 export default styles;
