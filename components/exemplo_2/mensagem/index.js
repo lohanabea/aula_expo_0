@@ -1,9 +1,11 @@
-import{ View,Text }from 'react-native'
+import{ View,Text }from 'react-native';
+
+import styles from './styles';
 
 export default function Mensagem(){
     return(
-        <View style={styles.container}>
-        <Text style={styles.titulo}>Exemplo2</Text>
+        <View style={styles.viewmensagem}>
+        <Text style={styles.mensagem}>Olá Lohana Beatriz</Text>
         </View> 
     );
 }

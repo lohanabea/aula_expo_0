@@ -14,3 +14,5 @@ viewmensagem:{
 },
 
 });
+
+export default styles;
