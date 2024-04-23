@@ -21,7 +21,7 @@ const styles= StyleSheet.create({
     },
     viewmensagem:{
         borderWidth:4,
-        borderColor:'#733ba1',
+        borderColor:'#912024',
         borderRadius:20,
     },
 });
