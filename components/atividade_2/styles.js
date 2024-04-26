@@ -13,6 +13,7 @@ const styles= StyleSheet.create({
         fontSize:30,
         fontWeight:'bold',
         marginVertical:20,
+        color:'#662622',
     },
     mensagem:{
         fontSize:25,
