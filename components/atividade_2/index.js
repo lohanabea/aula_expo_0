@@ -8,7 +8,7 @@ import styles from './styles';
 function Atividade_2(){
     return(
         <View style={styles.container}>
-            <Text style={styles.titulo}>Comidas deliciosas</Text>
+            <Text style={styles.titulo}>Comidas Deliciosas</Text>
 
             <Mensagem ingrediente= 'Batata='   comida=' Croquete de batata com queijo'/>
             <Mensagem ingrediente= 'Carne='   comida=' Fraldinha com alho e mostarda'/>

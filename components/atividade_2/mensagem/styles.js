@@ -5,7 +5,7 @@ const styles= StyleSheet.create({
 mensagem:{
     fontSize:25,
     margin:10,
-    color:'#662622',
+    color:'#662622 ',
 },
 viewmensagem:{
     borderWidth:4,
