@@ -3,7 +3,7 @@ import { View, Text, Pressable } from 'react-native';
 
 import styles from './styles';
 
-export default function Exemplo_3() {
+export default function Atividade_3() {
 
     const [numero, setNumero] = useState(0);
 
