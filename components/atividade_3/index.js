@@ -25,7 +25,9 @@ export default function Atividade_3() {
 <br></br>
 <br></br> 
 
+    <Text style={styles.titulo}>Atividade 3</Text>
 <View style={styles.numeroconteiner}>
+
             <Pressable
                 onPress={() => menosum()}
                 style={({ pressed }) => pressed ?
